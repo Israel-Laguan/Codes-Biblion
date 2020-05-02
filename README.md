@@ -56,9 +56,65 @@ From the table below you have a lot of code. But a word of advice if you are a s
 
 # Table of Projects
 
-| id   | Description | Help? | hints? | Solutions |
+| id   | Title | Help? | hints? | Solutions |
 |------|-------------|-------|--------|-----------|
-|      |             |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Find PI to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Find e to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Fibonacci Sequence |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Prime Factorization |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Next Prime Number |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Find Cost of Tile to Cover W x H Floor |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Mortgage Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Change Return Program |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Binary to Decimal and Back Converter |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Unit Converter (temp, currency, volume, mass and more) |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Alarm Clock |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Distance Between Two Cities |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Credit Card Validator |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Tax Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Factorial Finder |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Complex Number Algebra |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Happy Numbers |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Number Names |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Coin Flip Simulation |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Limit Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NUXX |Fast Exponentiation |  [ ]  |   [ ]  |    [ ]    |
+| --- |--- | --- |   --- |    ---   |
+| TEXX |Fizz Buzz |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Reverse a String |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Pig Latin |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Count Vowels |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Check if Palindrome |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Count Words in a String |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Text Editor |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |RSS Feed Creator |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Post it Notes Program |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Quote Tracker |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Guestbook / Journal |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |News Ticker and Game Scores |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Fortune Teller (Horoscope) |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Vigenere / Vernam / Ceasar Ciphers |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Random Gift Suggestions |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Text to HTML Generator |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |CD Key Generator |  [ ]  |   [ ]  |    [ ]    |
+| TEXX |Regex Query Tool |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |FTP Program |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Get Atomic Time from Internet Clock |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Chat Application |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Fetch Current Weather |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |P2P File Sharing App |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Port Scanner |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Mail Checker (POP3 / IMAP) |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Packet Sniffer |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Country from IP Lookup |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Whois Search Tool |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Zip / Postal Code Lookup |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Remote Login |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Site Checker with Time Scheduling |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Small Web Server |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Web Bot |  [ ]  |   [ ]  |    [ ]    |
+|      | |  [ ]  |   [ ]  |    [ ]    |
 
 ID's Meaning:
 - **`NUXX`**: Numbers Problems
