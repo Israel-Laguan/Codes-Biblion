@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #55b9f3;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+        }
+
+        .container {
+            position: absolute;
+            height: 100vh;
+            width: 100vw;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+            border-radius: 50px;
+        }
+
+        .modal {
+            width: 50%;
+            border-radius: 12px;
+            background: linear-gradient(145deg, rgba(34, 109, 153, 0.5), rgba(91, 198, 255, 0.5));
+            box-shadow:  20px 20px 19px #489dcf, 
+             -20px -20px 19px #62d5ff;
+        }
+
+        button {
+            margin: 10px;
+            border-radius: 12px;
+            border: 1px;
+            background: linear-gradient(145deg, #5bc6ff, #4da7db);
+            box-shadow:  20px 20px 60px #489dcf, 
+             -20px -20px 60px #62d5ff;
+            color: yellow;
+        }
+
+        button#close-button {
+            color: red;
+        }
+
+        button[pressed] {
+            background: #55b9f3;
+            box-shadow: inset 20px 20px 60px #489dcf, 
+                        inset -20px -20px 60px #62d5ff;
+        }
+        p {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <button id="open-button">Open Modal</button>
+    <div class="container" id="container">
+        <div class="modal">
+            <button id="close-button">x</button>
+            <p>Some content</p>
+        </div>
+    </div>
+    <script>
+        document.getElementById('open-button').addEventListener('click', e => {
+            document.getElementById('container').style.display = "flex";
+            document.getElementById('open-button').setAttribute('pressed', true)
+        })
+
+        document.getElementById('close-button').addEventListener('click', e => {
+            document.getElementById('container').style.display = "none";
+            document.getElementById('open-button').removeAttribute('pressed')
+        })
+        window.addEventListener('load', e=>{
+            document.getElementsByTagName('body').innerHTML
+        })
+    </script>
+</body>
+
+</html>

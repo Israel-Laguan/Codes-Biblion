@@ -58,47 +58,48 @@ From the table below you have a lot of code. But a word of advice if you are a s
 
 | id   | Title | Help? | hints? | Solutions |
 |------|-------------|-------|--------|-----------|
-| NUXX |Find PI to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Find e to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Fibonacci Sequence |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Prime Factorization |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Next Prime Number |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Find Cost of Tile to Cover W x H Floor |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Mortgage Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Change Return Program |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Binary to Decimal and Back Converter |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Unit Converter (temp, currency, volume, mass and more) |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Alarm Clock |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Distance Between Two Cities |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Credit Card Validator |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Tax Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Factorial Finder |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Complex Number Algebra |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Happy Numbers |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Number Names |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Coin Flip Simulation |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Limit Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NUXX |Fast Exponentiation |  [ ]  |   [ ]  |    [ ]    |
+| NU01 |Find PI to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
+| NU02 |Find e to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
+| NU03 |Fibonacci Sequence |  [ ]  |   [ ]  |    [ ]    |
+| NU04 |Prime Factorization |  [ ]  |   [ ]  |    [ ]    |
+| NU05 |Next Prime Number |  [ ]  |   [ ]  |    [ ]    |
+| NU06 |Find Cost of Tile to Cover W x H Floor |  [ ]  |   [ ]  |    [ ]    |
+| NU07 |Mortgage Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NU08 |Change Return Program |  [ ]  |   [ ]  |    [ ]    |
+| NU09 |Binary to Decimal and Back Converter |  [ ]  |   [ ]  |    [ ]    |
+| NU10 |Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NU11 |Unit Converter (temp, currency, volume, mass and more) |  [ ]  |   [ ]  |    [ ]    |
+| NU12 |Alarm Clock |  [ ]  |   [ ]  |    [ ]    |
+| NU13 |Distance Between Two Cities |  [ ]  |   [ ]  |    [ ]    |
+| NU14 |Credit Card Validator |  [ ]  |   [ ]  |    [ ]    |
+| NU15 |Tax Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NU16 |Factorial Finder |  [ ]  |   [ ]  |    [ ]    |
+| NU17 |Complex Number Algebra |  [ ]  |   [ ]  |    [ ]    |
+| NU18 |Happy Numbers |  [ ]  |   [ ]  |    [ ]    |
+| NU19 |Number Names |  [ ]  |   [ ]  |    [ ]    |
+| NU20 |Coin Flip Simulation |  [ ]  |   [ ]  |    [ ]    |
+| NU21 |Limit Calculator |  [ ]  |   [ ]  |    [ ]    |
+| NU22 |Fast Exponentiation |  [ ]  |   [ ]  |    [ ]    |
 | --- |--- | --- |   --- |    ---   |
-| TEXX |Fizz Buzz |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Reverse a String |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Pig Latin |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Count Vowels |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Check if Palindrome |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Count Words in a String |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Text Editor |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |RSS Feed Creator |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Post it Notes Program |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Quote Tracker |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Guestbook / Journal |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |News Ticker and Game Scores |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Fortune Teller (Horoscope) |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Vigenere / Vernam / Ceasar Ciphers |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Random Gift Suggestions |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Text to HTML Generator |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |CD Key Generator |  [ ]  |   [ ]  |    [ ]    |
-| TEXX |Regex Query Tool |  [ ]  |   [ ]  |    [ ]    |
+| TE01 |Fizz Buzz |  [ ]  |   [ ]  |    [ ]    |
+| TE02 |Reverse a String |  [ ]  |   [ ]  |    [ ]    |
+| TE03 |Pig Latin |  [ ]  |   [ ]  |    [ ]    |
+| TE04 |Count Vowels |  [ ]  |   [ ]  |    [ ]    |
+| TE05 |Check if Palindrome |  [ ]  |   [ ]  |    [ ]    |
+| TE06 |Count Words in a String |  [ ]  |   [ ]  |    [ ]    |
+| TE07 |Text Editor |  [ ]  |   [ ]  |    [ ]    |
+| TE08 |RSS Feed Creator |  [ ]  |   [ ]  |    [ ]    |
+| TE09 |Post it Notes Program |  [ ]  |   [ ]  |    [ ]    |
+| TE10 |Quote Tracker |  [ ]  |   [ ]  |    [ ]    |
+| TE11 |Guestbook / Journal |  [ ]  |   [ ]  |    [ ]    |
+| TE12 |News Ticker and Game Scores |  [ ]  |   [ ]  |    [ ]    |
+| TE13 |Fortune Teller (Horoscope) |  [ ]  |   [ ]  |    [ ]    |
+| TE14 |Vigenere / Vernam / Ceasar Ciphers |  [ ]  |   [ ]  |    [ ]    |
+| TE15 |Random Gift Suggestions |  [ ]  |   [ ]  |    [ ]    |
+| TE16 |Text to HTML Generator |  [ ]  |   [ ]  |    [ ]    |
+| TE17 |CD Key Generator |  [ ]  |   [ ]  |    [ ]    |
+| TE18 |Regex Query Tool |  [ ]  |   [ ]  |    [ ]    |
+| --- |--- | --- |   --- |    ---   |
 | ADXX |FTP Program |  [ ]  |   [ ]  |    [ ]    |
 | ADXX |Get Atomic Time from Internet Clock |  [ ]  |   [ ]  |    [ ]    |
 | ADXX |Chat Application |  [ ]  |   [ ]  |    [ ]    |
@@ -125,7 +126,7 @@ ID's Meaning:
 - **`SQXX`**: Stack and Queues Algorithms
 - **`REXX`**: Recursion Algorithms
 - **`TGXX`**: Trees and Graphs Algorithms
-- **`MSXX`**: Maps Sets and Hashes Algorithms
+- **`MSXX`**: Maps, Sets and Hashes Algorithms
 - **`SOXX`**: Sorting Algorithms
 - **`ADXX`**: Advanced Algorithms
 
