@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/ComplexNumberAlgebra.hs) [[aysark (Java)]](https://github.com/aysark/Review/blob/master/Projects/src/ComplexNumbers.java)[[ppype (python)]](https://github.com/ppype/Complex-Number-Algebra/blob/master/programs/main.py)  [[sijunhe (c)]](https://github.com/sijunhe/Project-Programs/blob/master/c/complex.c)

@@ -41,9 +41,9 @@
 
 # The Project
 
-A list of Code Challenges that anyone can solve in any programming language. These projects are divided into multiple categories, and each category has its own folder.
+A list of Code Challenges that anyone can solve in any programming language. These projects are divided into multiple categories, and each category has its own folder. `READ.md` tries to explain the project without spoiling the answer.
 
-From the table below you have a lot of code. But a word of advice if you are a student when some of these Challenges are in a test or exercise: for your own good, **please don't copy-paste!** My first recommendation is to read the problem, think in your own solution (or possible paths of solutions), AN THEN read hints. With hints, not jump into solution yet, try to code your solution in your preferred language, try to understand the algorithm, and then try to read other people's solutions!
+From the table below you have a lot of code. But a word of advice if you are a student when some of these Challenges are in a test or exercise: for your own good, **please don't copy-paste!** My first recommendation is to read the problem, think in your own solution (or possible paths of solutions), AN THEN read hints. With hints, not jump into solution yet, try to code your solution in your preferred language, try to understand the algorithm, and only then try to read other people's solutions!
 
 # Features
 
@@ -58,63 +58,63 @@ From the table below you have a lot of code. But a word of advice if you are a s
 
 | id   | Title | Help? | hints? | Solutions |
 |------|-------------|-------|--------|-----------|
-| NU01 |Find PI to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
-| NU02 |Find e to the Nth Digit |  [ ]  |   [ ]  |    [ ]    |
-| NU03 |Fibonacci Sequence |  [ ]  |   [ ]  |    [ ]    |
-| NU04 |Prime Factorization |  [ ]  |   [ ]  |    [ ]    |
-| NU05 |Next Prime Number |  [ ]  |   [ ]  |    [ ]    |
-| NU06 |Find Cost of Tile to Cover W x H Floor |  [ ]  |   [ ]  |    [ ]    |
-| NU07 |Mortgage Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NU08 |Change Return Program |  [ ]  |   [ ]  |    [ ]    |
-| NU09 |Binary to Decimal and Back Converter |  [ ]  |   [ ]  |    [ ]    |
-| NU10 |Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NU11 |Unit Converter (temp, currency, volume, mass and more) |  [ ]  |   [ ]  |    [ ]    |
-| NU12 |Alarm Clock |  [ ]  |   [ ]  |    [ ]    |
-| NU13 |Distance Between Two Cities |  [ ]  |   [ ]  |    [ ]    |
-| NU14 |Credit Card Validator |  [ ]  |   [ ]  |    [ ]    |
-| NU15 |Tax Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NU16 |Factorial Finder |  [ ]  |   [ ]  |    [ ]    |
-| NU17 |Complex Number Algebra |  [ ]  |   [ ]  |    [ ]    |
-| NU18 |Happy Numbers |  [ ]  |   [ ]  |    [ ]    |
-| NU19 |Number Names |  [ ]  |   [ ]  |    [ ]    |
-| NU20 |Coin Flip Simulation |  [ ]  |   [ ]  |    [ ]    |
-| NU21 |Limit Calculator |  [ ]  |   [ ]  |    [ ]    |
-| NU22 |Fast Exponentiation |  [ ]  |   [ ]  |    [ ]    |
+| NU01 |Find PI to the Nth Digit            |  [Basic](Numbers/NU01/HELP.md)  |   [ ]  |    [ ]    |
+| NU02 |Find e to the Nth Digit             |  [Basic](Numbers/NU02/HELP.md)  |   [ ]  |    [ ]    |
+| NU03 |Fibonacci Sequence                  |  [Basic](Numbers/NU03/HELP.md)  |   [ ]  |    [ ]    |
+| NU04 |Prime Factorization                 |  [Basic](Numbers/NU04/HELP.md)  |   [ ]  |    [ ]    |
+| NU05 |Next Prime Number                   |  [Basic](Numbers/NU05/HELP.md)  |   [ ]  |    [ ]    |
+| NU06 |Find Cost of Tile                   |  [Basic](Numbers/NU06/HELP.md)  |   [ ]  |    [ ]    |
+| NU07 |Mortgage Calculator                 |  [Basic](Numbers/NU07/HELP.md)  |   [ ]  |    [ ]    |
+| NU08 |Change Return Program               |  [Basic](Numbers/NU08/HELP.md)  |   [ ]  |    [ ]    |
+| NU09 |Binary to Decimal and Back Converter|  [Basic](Numbers/NU09/HELP.md)  |   [ ]  |    [ ]    |
+| NU10 |Calculator                          |  [Basic](Numbers/NU10/HELP.md)  |   [ ]  |    [ ]    |
+| NU11 |Unit Converter                      |  [Basic](Numbers/NU11/HELP.md)  |   [ ]  |    [ ]    |
+| NU12 |Alarm Clock                         |  [Basic](Numbers/NU12/HELP.md)  |   [ ]  |    [ ]    |
+| NU13 |Distance Between Two Cities         |  [Basic](Numbers/NU13/HELP.md)  |   [ ]  |    [ ]    |
+| NU14 |Credit Card Validator               |  [Basic](Numbers/NU14/HELP.md)  |   [ ]  |    [ ]    |
+| NU15 |Tax Calculator                      |  [Basic](Numbers/NU15/HELP.md)  |   [ ]  |    [ ]    |
+| NU16 |Factorial Finder                    |  [Basic](Numbers/NU16/HELP.md)  |   [ ]  |    [ ]    |
+| NU17 |Complex Number Algebra              |  [Basic](Numbers/NU17/HELP.md)  |   [ ]  |    [ ]    |
+| NU18 |Happy Numbers                       |  [Basic](Numbers/NU18/HELP.md) |   [ ]  |    [ ]    |
+| NU19 |Number Names                        |  [Basic](Numbers/NU19/HELP.md)  |   [ ]  |    [ ]    |
+| NU20 |Coin Flip Simulation                |  [Basic](Numbers/NU20/HELP.md)  |   [ ]  |    [ ]    |
+| NU21 |Limit Calculator                    |  [Basic](Numbers/NU21/HELP.md)  |   [ ]  |    [ ]    |
+| NU22 |Fast Exponentiation                 |  [Basic](Numbers/NU22/HELP.md)  |   [ ]  |    [ ]    |
 | --- |--- | --- |   --- |    ---   |
-| TE01 |Fizz Buzz |  [ ]  |   [ ]  |    [ ]    |
-| TE02 |Reverse a String |  [ ]  |   [ ]  |    [ ]    |
-| TE03 |Pig Latin |  [ ]  |   [ ]  |    [ ]    |
-| TE04 |Count Vowels |  [ ]  |   [ ]  |    [ ]    |
-| TE05 |Check if Palindrome |  [ ]  |   [ ]  |    [ ]    |
-| TE06 |Count Words in a String |  [ ]  |   [ ]  |    [ ]    |
-| TE07 |Text Editor |  [ ]  |   [ ]  |    [ ]    |
-| TE08 |RSS Feed Creator |  [ ]  |   [ ]  |    [ ]    |
-| TE09 |Post it Notes Program |  [ ]  |   [ ]  |    [ ]    |
-| TE10 |Quote Tracker |  [ ]  |   [ ]  |    [ ]    |
-| TE11 |Guestbook / Journal |  [ ]  |   [ ]  |    [ ]    |
-| TE12 |News Ticker and Game Scores |  [ ]  |   [ ]  |    [ ]    |
-| TE13 |Fortune Teller (Horoscope) |  [ ]  |   [ ]  |    [ ]    |
-| TE14 |Vigenere / Vernam / Ceasar Ciphers |  [ ]  |   [ ]  |    [ ]    |
-| TE15 |Random Gift Suggestions |  [ ]  |   [ ]  |    [ ]    |
-| TE16 |Text to HTML Generator |  [ ]  |   [ ]  |    [ ]    |
-| TE17 |CD Key Generator |  [ ]  |   [ ]  |    [ ]    |
-| TE18 |Regex Query Tool |  [ ]  |   [ ]  |    [ ]    |
+| TE01 |Fizz Buzz                           |  [Basic](Text/TE01/HELP.md)  |   [ ]  |    [ ]    |
+| TE02 |Reverse a String                    |  [Basic](Text/TE02/HELP.md)  |   [ ]  |    [ ]    |
+| TE03 |Pig Latin                           |  [Basic](Text/TE03/HELP.md)  |   [ ]  |    [ ]    |
+| TE04 |Count Vowels                        |  [Basic](Text/TE04/HELP.md)  |   [ ]  |    [ ]    |
+| TE05 |Check if Palindrome                 |  [Basic](Text/TE05/HELP.md)  |   [ ]  |    [ ]    |
+| TE06 |Count Words in a String             |  [Basic](Text/TE06/HELP.md)  |   [ ]  |    [ ]    |
+| TE07 |Text Editor                         |  [Basic](Text/TE07/HELP.md)  |   [ ]  |    [ ]    |
+| TE08 |RSS Feed Creator                    |  [Basic](Text/TE08/HELP.md)  |   [ ]  |    [ ]    |
+| TE09 |Post it Notes Program               |  [Basic](Text/TE09/HELP.md)  |   [ ]  |    [ ]    |
+| TE10 |Quote Tracker                       |  [Basic](Text/TE10/HELP.md)  |   [ ]  |    [ ]    |
+| TE11 |Guestbook / Journal                 |  [Basic](Text/TE11/HELP.md)  |   [ ]  |    [ ]    |
+| TE12 |News Ticker and Game Scores         |  [Basic](Text/TE12/HELP.md)  |   [ ]  |    [ ]    |
+| TE13 |Fortune Teller (Horoscope)          |  [Basic](Text/TE13/HELP.md)  |   [ ]  |    [ ]    |
+| TE14 |Vigenere / Vernam / Ceasar Ciphers  |  [Basic](Text/TE14/HELP.md)  |   [ ]  |    [ ]    |
+| TE15 |Random Gift Suggestions             |  [Basic](Text/TE15/HELP.md)  |   [ ]  |    [ ]    |
+| TE16 |Text to HTML Generator              |  [Basic](Text/TE16/HELP.md)  |   [ ]  |    [ ]    |
+| TE17 |CD Key Generator                    |  [Basic](Text/TE17/HELP.md)  |   [ ]  |    [ ]    |
+| TE18 |Regex Query Tool                    |  [Basic](Text/TE18/HELP.md)  |   [ ]  |    [ ]    |
 | --- |--- | --- |   --- |    ---   |
-| ADXX |FTP Program |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |FTP Program                         |  [ ]  |   [ ]  |    [ ]    |
 | ADXX |Get Atomic Time from Internet Clock |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Chat Application |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Fetch Current Weather |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |P2P File Sharing App |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Port Scanner |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Mail Checker (POP3 / IMAP) |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Packet Sniffer |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Country from IP Lookup |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Whois Search Tool |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Zip / Postal Code Lookup |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Remote Login |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Site Checker with Time Scheduling |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Small Web Server |  [ ]  |   [ ]  |    [ ]    |
-| ADXX |Web Bot |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Chat Application                    |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Fetch Current Weather               |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |P2P File Sharing App                |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Port Scanner                        |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Mail Checker (POP3 / IMAP)          |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Packet Sniffer                      |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Country from IP Lookup              |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Whois Search Tool                   |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Zip / Postal Code Lookup            |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Remote Login                        |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Site Checker with Time Scheduling   |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Small Web Server                    |  [ ]  |   [ ]  |    [ ]    |
+| ADXX |Web Bot                             |  [ ]  |   [ ]  |    [ ]    |
 |      | |  [ ]  |   [ ]  |    [ ]    |
 
 ID's Meaning:

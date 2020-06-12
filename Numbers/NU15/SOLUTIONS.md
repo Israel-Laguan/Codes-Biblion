@@ -1,0 +1,4 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/TaxCalculator.hs)[[jbruno2 (C++)]](https://github.com/jbruno2/Simple-Programs-and-Solutions/blob/master/C%2B%2B/Tax%20calculator.cpp)  [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Numbers/tax.go) [[brotatotes (Python)]](https://github.com/brotatotes/myStuff/blob/master/Tax_Calculator.py) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/tax.py)
+ [[neivin (Python)]](https://github.com/neivin/projects/blob/master/numbers/tax_calculator.py)[[Vdrey (Python)]](https://github.com/vdrey/Project-Programs/blob/master/Python/Tax%20Calculator.py) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/tax.sh)

@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb) [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/citydistance.py) [[kingballer29 (C)]](https://github.com/kingballer29/Programming/blob/master/distanceBetweenTwoCities.c)

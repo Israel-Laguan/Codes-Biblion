@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/unit_convert.py) [[kurokuriboh (Java)]](https://github.com/kurokuriboh/Mega_Project_Solutions/tree/master/Numbers/Unit%20Converter)

@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/mortgage_calculator.rb) [[jbruno2 (C++)]](https://github.com/jbruno2/Simple-Programs-and-Solutions/blob/master/C%2B%2B/mortgagecalculator.cpp) [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Numbers/mortgage.go) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/mortgage.py) [[francis36012 (Java)]](https://github.com/francis36012/karan-projects/blob/master/src/numbers/Mortgage.java) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/mortgage.sh)
