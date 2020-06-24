@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[eush77(Befunge)]](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/fizzbuzz.bf) [[sethlugibihl (Python)]](https://github.com/sethlugibihl/Python-Solutions/blob/master/FizzBuzz.py)[[viktorahlstrom (Java)]](https://github.com/viktorahlstrom/all/blob/master/java/fizzbuzz.java) [[baarb (JavaScript)]](https://github.com/baarb/FizzBuzzSolution/blob/master/FizzBuzzSolution.js)[[korabum (Python)]](https://github.com/korabum/Projects/blob/master/Text/fizzbuzz.py)[[danman1979(JavaScript)]](https://github.com/danman1979/FizzBuzz/blob/master/fizzBuzz.js)

@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/stock_price.rb) [[masegaloeh (Python)]](https://github.com/masegaloeh/freetime-projects/blob/master/text/quote_tracker.py) [[tkwon123 (Ruby)]](https://github.com/Tkwon123/fetchstock) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/scripts/stocks.sh)[[dotslash (Python)]](https://github.com/dotslash/Projects/blob/master/solutions/quotes.py)

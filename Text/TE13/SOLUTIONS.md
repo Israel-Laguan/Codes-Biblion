@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/horoscope.rb) [[cahitonur (Python)]](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py) [[tapasweni-pathak (Python)]](https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py) [[viktorahlstrom (Bash)]](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/horoscope.sh)

@@ -1,0 +1,3 @@
+From [https://github.com/karan](https://github.com/karan/Projects-Solutions)
+
+[[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/closestpairproblem.py) [[liuyang1 (Python)]](https://github.com/liuyang1/Projects/blob/master/Classic%20Algorithms/cloestpair.py) [[smac89 (C++)]](https://github.com/smac89/Projects/tree/master/solutions/classic-algorithms/closestpair) [[sijunhe (java)]](https://github.com/sijunhe/Project-Programs/tree/master/java/closest%20Pair)
