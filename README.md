@@ -1,4 +1,4 @@
-****<!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues-open][issues-open-shield]][issues-url]
